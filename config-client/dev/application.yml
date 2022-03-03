@@ -1,5 +1,5 @@
 user:
-  role: User
+  role: MasterAlister
 servlet:
     multipart:
       enabled: true
