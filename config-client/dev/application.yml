@@ -1,3 +1,5 @@
+user:
+  role: User
 servlet:
     multipart:
       enabled: true
